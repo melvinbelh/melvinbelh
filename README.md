@@ -6,7 +6,7 @@
 - 🌐 [CV + Présentation](https://github.com/melvinbelh/cv-melvin-belhadrouf)
 
 ## Stack principale
-- **Frontend :** Angular, React, Vue, Next.js  
+- **Frontend :** Angular, React.js, Vue.js, Next.js  
 - **Backend :** Java, SQL (PostgreSQL, MySQL)  
 - **Outils :** Git, Linux, UML, Agile  
 - **Autres :** Isabelle/HOL, vérification formelle  
