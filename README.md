@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Melvin Belhadrouf  
+🎓 Étudiant en Master 1 Ingénierie Logicielle – Université de Rennes  
+💻 Passionné par le développement web et logiciel
 
-<!--
-**melvinbelh/melvinbelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projets récents
+- 🎮 [Jeu de cartes Java – Slay-like](https://github.com/melvinbelh/projet-java-slay)
+- 🧩 [Application Angular Pokémon](https://github.com/melvinbelh/pokedemo)
+- 🍺 [React Beer List](https://github.com/melvinbelh/teaching-jxs-angular)
+- 🌐 [CV + Présentation](https://github.com/melvinbelh/cv-melvin-belhadrouf)
 
-Here are some ideas to get you started:
+## Stack principale
+- **Frontend :** Angular, React, Vue, Next.js  
+- **Backend :** Java, SQL (PostgreSQL, MySQL)  
+- **Outils :** Git, Linux, UML, Agile  
+- **Autres :** Isabelle/HOL, vérification formelle  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact : [melvin.belhadrouf@outlook.fr](mailto:melvin.belhadrouf@outlook.fr)
