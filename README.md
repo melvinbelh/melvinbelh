@@ -2,10 +2,7 @@
 🎓 Étudiant en Master 1 Ingénierie Logicielle – Université de Rennes  
 💻 Passionné par le développement web et logiciel
 
-## 🚀 Projets récents
-- 🎮 [Jeu de cartes Java – Slay-like](https://github.com/melvinbelh/projet-java-slay)
-- 🧩 [Application Angular Pokémon](https://github.com/melvinbelh/pokedemo)
-- 🍺 [React Beer List](https://github.com/melvinbelh/teaching-jxs-angular)
+## Mon CV
 - 🌐 [CV + Présentation](https://github.com/melvinbelh/cv-melvin-belhadrouf)
 
 ## Stack principale
