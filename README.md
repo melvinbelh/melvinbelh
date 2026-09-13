@@ -10,6 +10,12 @@ Master 2 Ingénierie Logicielle · Université de Rennes — ISTIC
 
 </div>
 
+## 📄 Mon CV
+
+[![Télécharger mon CV en PDF](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-PDF-1f4e79?style=for-the-badge)](https://github.com/melvinbelh/cv-melvin-belhadrouf/raw/refs/heads/main/CV_Melvin_Belhadrouf.pdf)
+
+[![Consulter mon CV en ligne](https://img.shields.io/badge/Consulter_mon_CV-En_ligne-176B51?style=for-the-badge)](https://melvinbelh.github.io/cv-melvin-belhadrouf/)
+
 ## 👨‍💻 À propos
 
 Je m'intéresse au développement web et logiciel, aussi bien côté backend que frontend. J'aime comprendre comment une fonctionnalité fonctionne de bout en bout, de l'interface jusqu'à la base de données.
