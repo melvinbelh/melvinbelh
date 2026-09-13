@@ -8,6 +8,10 @@ Master 2 Ingénierie Logicielle · Université de Rennes — ISTIC
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/melvin-belhadrouf/)
 [![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge)](mailto:melvin.belhadrouf@outlook.fr)
 
+## 📄 Mon CV
+
+[Consulter mon CV en ligne](https://melvinbelh.github.io/cv-melvin-belhadrouf/) · [Ouvrir mon CV en PDF](https://melvinbelh.github.io/cv-melvin-belhadrouf/CV_Melvin_Belhadrouf.pdf)
+
 </div>
 
 ## 👨‍💻 À propos
