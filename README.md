@@ -86,13 +86,11 @@ Projet universitaire inspiré de Slay the Spire : moteur de jeu au tour par tour
 
 Projet universitaire de conception d'une base de données relationnelle, de modélisation des données et d'écriture de requêtes SQL.
 
-**SQL · Modélisation relationnelle**
+### Site vitrine WordPress — Purs décors
 
-### Site vitrine responsive
+Création et mise en ligne d’un site vitrine responsive avec WordPress pendant mon stage chez Purs décors, de mai à juin 2025 : présentation des prestations, galerie de réalisations et travail sur le référencement naturel.
 
-Réalisé pendant un stage en développement web en 2025 pour une entreprise de décoration : site HTML/CSS, galerie de réalisations, travail sur le référencement naturel et le déploiement.
-
-**HTML · CSS · Responsive design**
+**WordPress · Responsive design · SEO**
 
 ## 🌱 Ce que je souhaite approfondir
 
